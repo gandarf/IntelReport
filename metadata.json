@@ -1,0 +1,5 @@
+{
+  "name": "IntelReport: AI RSS Analyst",
+  "description": "An intelligent RSS feed monitor that automatically fetches, analyzes, and summarizes news every two hours using Gemini AI to provide concise intelligence reports.",
+  "requestFramePermissions": []
+}
